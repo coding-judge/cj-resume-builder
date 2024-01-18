@@ -20,7 +20,7 @@ const nextConfig = {
     return [
       {
         source: '/editor',
-        destination: '/builder',
+        destination: '/',
         permanent: true,
       },
     ];
